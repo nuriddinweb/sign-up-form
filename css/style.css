@@ -1,0 +1,119 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+background: url(../img/bg.jpg);
+}
+html{
+    height: 100px;
+}
+.container {
+    align-items: center;
+    display: flex;
+    width: 1440px;
+    height: 800px;
+    flex-shrink: 0;
+    
+}
+.znz{width: 525px
+    height: 220px
+    top: 290px
+    left: 165px
+    margin: 36px
+    }
+.sign-up-title {
+  width: 525px;
+    height: 131px;
+    color: #fff9f9;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 55px;
+    /* 110% */
+    letter-spacing: -0.521px;
+}
+.sign-up-text {
+
+    width: 525px;
+    color: #fff9f9;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px;
+
+}
+.sign-up-form-text{
+    color: #FFF;
+text-align: center;
+font-family: Poppins;
+font-size: 0.9375rem;
+font-style: normal;
+font-weight: 700;
+line-height: 1.625rem; /* 173.333% */
+letter-spacing: 0.01675rem;
+color: #FFF;
+font-family: Poppins;
+font-size: 0.9375rem;
+font-style: normal;
+font-weight: 400;
+line-height: 1.625rem;
+letter-spacing: 0.01675rem;
+}
+.sign-up-form-text {
+    text-align: center;
+    width: 540px;
+    height: 60px;
+    border-radius: 10px;
+    background: #5E54A4;
+    box-shadow: 0px 8px 0px 0px rgba(0, 0, 0, 0.15);
+    padding-top: 17px;
+
+}
+form {
+    border-radius: 10px;
+    background: #FFF;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 40px;
+}
+input {
+    color: #3D3B48;
+    padding: 15px 32px;
+    font-size: 17px;
+ 
+    border: 1px solid #DEDEDE;
+    
+   
+    border-radius: 5px;
+    background: #FFF;
+}
+
+button {
+    color: #FFF;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 26px;
+    letter-spacing: 1px;
+    border-radius: 5px;
+    padding: 17px 0px;
+    border: none;
+    background: #38CC8B;
+}
+.about {
+    color: #BAB7D4;
+    text-align: center;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px;
+   
+}
+.Terms {
+    color: #FF7979;
+    font-size: 11px;
+ 
+    font-weight: 700;
+    line-height: 26px;
+}
